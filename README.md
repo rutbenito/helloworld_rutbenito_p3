@@ -1,6 +1,6 @@
 # helloworld_rutbenito_p3
 
-A new Flutter project.
+A simple Flutter project with a "hello world".
 
 ## Getting Started
 
